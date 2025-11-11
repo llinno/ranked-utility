@@ -1,3 +1,13 @@
+Here are the changes I made:
+- Updated the README file to reflect my customizations
+- Fixed a bug in the ranking calculation
+- Added new utility functions for data processing
+
+
+
+
+
+
 # Ranked Bedwars Utility Bot
 
 A comprehensive Discord bot designed to enhance the Ranked Bedwars community with powerful moderation, ticketing, and utility features.
