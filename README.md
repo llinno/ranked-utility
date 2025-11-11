@@ -134,5 +134,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📝 Credits
 
 - Developed by Lee
-- Special thanks to the Zyrox Ranked Bedwars community
+- Special thanks to the Zyrox, Veltrix Ranked Bedwars community
 
